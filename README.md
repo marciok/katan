@@ -5,7 +5,7 @@
  
  *An web server overview:*
  
- ![alt text](cloud+flow_final.png)
+ ![alt text](https://s3.amazonaws.com/marcioklepacz/cloud%2Bflow_final.png)
  
  
  ## 1. Create Socket 🐣
@@ -47,7 +47,7 @@ func startWebServer(){
  
  ## 3. Create adress and bind 🚪➕🔌
  
- ![alt text](overview.png)
+ ![alt text](https://s3.amazonaws.com/marcioklepacz/overview.png)
  ```swift
     let port: in_port_t = 9292
     
