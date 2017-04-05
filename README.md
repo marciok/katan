@@ -169,5 +169,5 @@ func startWebServer(){
 startWebServer()
 ```
 # References:
-https://ruslanspivak.com/lsbaws-part1/
-https://github.com/httpswift/swifter
+* https://ruslanspivak.com/lsbaws-part1/
+* https://github.com/httpswift/swifter
