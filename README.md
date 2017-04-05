@@ -1,5 +1,3 @@
-
-
  # Katan
  A micro web server that replies *"Hello world!"* to every request
  
@@ -159,9 +157,9 @@ func startWebServer(){
         
 ```
 ## 8. Close socket ⚰️
-```swift
-`close` -- delete a descriptor
 
+`close` -- delete a descriptor
+```swift
 
         close(clientSocket)
         
