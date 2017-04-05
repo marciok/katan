@@ -1,12 +1,4 @@
-//
-//  main.swift
-//  KatanSandbox
-//
-//  Created by Marcio Klepacz on 3/27/17.
-//  Copyright © 2017 Marcio Klepacz. All rights reserved.
-//
 
-import Foundation
 
  # Katan
  A micro web server that replies *"Hello world!"* to every request
