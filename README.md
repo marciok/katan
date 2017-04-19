@@ -3,7 +3,7 @@
  
  The idea is to show the basics steps to create a web server in Swift.
  
- *An web server overview:*
+ *A web server overview:*
  
  ![alt text](https://s3.amazonaws.com/marcioklepacz/cloud%2Bflow_final.png)
  
