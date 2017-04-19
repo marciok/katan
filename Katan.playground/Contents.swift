@@ -13,7 +13,7 @@ import Foundation
  
  The idea is to show the basics steps to create a web server in Swift.
  
- *An web server overview:*
+ *A web server overview:*
  
  ![alt text](cloud+flow_final.png)
  
